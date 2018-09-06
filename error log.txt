@@ -1,0 +1,1 @@
+2018-07-19 09:41:51 122134 head.py Error: global name 'db' is not defined
