@@ -116,7 +116,7 @@ def view_comp_status(cpf):
 		error_file.write(error_text)
 		return(4)
 
-#### code to withdraw complaints
+# code to withdraw complaints
 
 def withdraw_complaints(cpf):
 	comp_num = sys.argv[3]
